@@ -1,3 +1,0 @@
-# praticaGit
-
-modifcaçao do readme
